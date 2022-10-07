@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    
+<head>  
+<title>Title</title>
+    </head>
+
+<body>
+    <!-- <h1>
+        H1 Words
+    </h1>
+
+    <div>
+        <ul>
+        <li>Text 1</li>
+        <li>Text 2</li>
+        </ul>
+    </div> -->
+    
+    <!-- <p> My cat is <strong>very grumpy.</strong></p>
+    <p>Do not forget to buy <del>bread</del> <mark>milk</mark> today.</p> -->
+<a href="http://www.w3schools.com/html" title="type here for tool tip thing" target="_blank">HTML Website</a>
+    <h2>Client Server Communication</h2>
+
+    <ol>
+        <li>DNS look up</li>
+        <li>TCP connection created</li>
+        <li>HTTP request sent</li>
+        <li>HTTP response sent
+        <ul>
+            <li>html file</li>
+            <li>status code</li>
+            </ul>
+            </li>
+        <li>TCP connection closed</li>
+    
+        </ol>
+
+</body>
+
+</html>
